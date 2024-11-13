@@ -8,11 +8,7 @@ redirect_from:
 ---
 
 Hi, I am a third year undergraduate student from [Nanjing University of Information Science and Technology](https://www.nuist.edu.cn/). My research interest includes electromagnetic metamaterial, optically transparent antennas, MIMO antenna decoupling technology, and electromagnetic metasurface.
-————————————————
 
-                            版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。
-                        
-原文链接：https://blog.csdn.net/qd1813100174/article/details/128604858
 
 A data-driven personal website
 ======

@@ -8,7 +8,7 @@ redirect_from:
 ---
 :smile::smile::smile:
 Hi, I am a third year undergraduate student from [Nanjing University of Information Science and Technology](https://www.nuist.edu.cn/), majoring in electronic information engineering.
-<br />:mortar_board::mortar_board::mortar_board:My research interest includes **electromagnetic metamaterial, optically transparent antennas, MIMO antenna decoupling technology, and electromagnetic metasurface**.
+<br />:mortar_board::mortar_board::mortar_board: My research interest includes **electromagnetic metamaterial, optically transparent antennas, MIMO antenna decoupling technology, and electromagnetic metasurface**.
 
 **Email:** 18012289187@163.com; 3254378489@qq.com; 202283270448@nuist.edu.cn
 <br />**Phone:** (+86)1-8-0-1-2-2-8-9-1-8-7

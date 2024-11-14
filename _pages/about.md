@@ -16,8 +16,8 @@ Hi, I am a third year undergraduate student from [Nanjing University of Informat
 
 News
 ======
-:tada:
-<br />:tada:
+:tada:Authorized as the primary author of the Chinese National Invention Patent: A dual-frequency directional optical transparent antenna applicable to wireless local area networks. 2024.7
+<br />:tada:As the host, I was granted approval for a provincial innovative training and scientific research project for college students: Research and Design of Optically Transparent Dual-Frequency Directional Low-Profile MIMO Antenna Applied to WLAN Band. 2024.4
 
 Getting started
 ======

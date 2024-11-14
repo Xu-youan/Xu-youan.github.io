@@ -16,18 +16,13 @@ Hi, I am a third year undergraduate student from [Nanjing University of Informat
 
 News
 ======
-:tada: **2024.7** Authorized as the primary author of the Chinese National Invention Patent: A dual-frequency directional optical transparent antenna applicable to wireless local area networks. 
-<br />:tada: **2024.4** As the host, I was granted approval for a provincial innovative training and scientific research project for college students: Research and Design of Optically Transparent Dual-Frequency Directional Low-Profile MIMO Antenna Applied to WLAN Band. 
+:tada: _**2024.7**_ Authorized as the primary author of the Chinese National Invention Patent: A dual-frequency directional optical transparent antenna applicable to wireless local area networks. 
+<br />:tada: _**2024.4**_ As the host, I was granted approval for a provincial innovative training and scientific research project for college students: Research and Design of Optically Transparent Dual-Frequency Directional Low-Profile MIMO Antenna Applied to WLAN Band. 
 
-Getting started
+Publications and Academic Projects
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* _**2024.7**_ Authorized a patent for invention ( A dual-frequency directional optical transparent antenna applicable to wireless local area networks), patent license numberr: CN118099723B.
+* _**2024.4-2025.4**_ As the primary author in charge presided over provincial college student innovation training and research projects:Research and Design of Optically Transparent Dual-Frequency Directional Low-Profile MIMO Antenna Applied to WLAN Band. _**6000RMB**_
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the 
+Honors & Awards
+======
